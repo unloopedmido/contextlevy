@@ -20,7 +20,7 @@
     "all": "npm run typecheck && npm run test && npm run build"
   },
   "dependencies": {
-    "@actions/core": "^1.11.1",
+    "@actions/core": "^3.0.1",
     "@actions/github": "^6.0.1",
     "@octokit/auth-app": "^7.1.5",
     "@octokit/rest": "^21.1.1",
